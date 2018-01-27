@@ -12,6 +12,7 @@ namespace TestGitHub
         {
             Console.WriteLine("Hello Github");
             Console.WriteLine("Gere comes some changes");
+            Console.WriteLine("someMore changes");
 
             Console.ReadLine();
         }
