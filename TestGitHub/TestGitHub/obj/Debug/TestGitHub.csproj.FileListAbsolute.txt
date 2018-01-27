@@ -1,0 +1,12 @@
+C:\Users\Igor\Desktop\TestGitHub\TestGitHub\bin\Debug\TestGitHub.exe.config
+C:\Users\Igor\Desktop\TestGitHub\TestGitHub\bin\Debug\TestGitHub.exe
+C:\Users\Igor\Desktop\TestGitHub\TestGitHub\bin\Debug\TestGitHub.pdb
+C:\Users\Igor\Desktop\TestGitHub\TestGitHub\obj\Debug\TestGitHub.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\TestGitHub\TestGitHub\obj\Debug\TestGitHub.exe
+C:\Users\Igor\Desktop\TestGitHub\TestGitHub\obj\Debug\TestGitHub.pdb
+C:\Users\Igor\Desktop\TestGH\TestGitHub\TestGitHub\bin\Debug\TestGitHub.exe.config
+C:\Users\Igor\Desktop\TestGH\TestGitHub\TestGitHub\obj\Debug\TestGitHub.exe
+C:\Users\Igor\Desktop\TestGH\TestGitHub\TestGitHub\obj\Debug\TestGitHub.pdb
+C:\Users\Igor\Desktop\TestGH\TestGitHub\TestGitHub\bin\Debug\TestGitHub.exe
+C:\Users\Igor\Desktop\TestGH\TestGitHub\TestGitHub\bin\Debug\TestGitHub.pdb
+C:\Users\Igor\Desktop\TestGH\TestGitHub\TestGitHub\obj\Debug\TestGitHub.csprojResolveAssemblyReference.cache
