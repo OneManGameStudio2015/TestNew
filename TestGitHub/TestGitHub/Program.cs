@@ -14,7 +14,7 @@ namespace TestGitHub
             Console.WriteLine("Gere comes some changes");
             Console.WriteLine("someMore changes");
             Console.WriteLine("Some new in new branch");
-
+            Console.WriteLine("totally new merged and added stuff");
 
             Console.ReadLine();
         }

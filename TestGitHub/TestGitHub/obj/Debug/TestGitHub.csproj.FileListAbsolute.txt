@@ -13,6 +13,9 @@ C:\Users\Igor\Desktop\TestGH\TestGitHub\TestGitHub\obj\Debug\TestGitHub.csprojRe
 C:\Users\Igor\Desktop\Folder To Copy Stuff\TestNew\TestGitHub\TestGitHub\bin\Debug\TestGitHub.exe.config
 C:\Users\Igor\Desktop\Folder To Copy Stuff\TestNew\TestGitHub\TestGitHub\obj\Debug\TestGitHub.exe
 C:\Users\Igor\Desktop\Folder To Copy Stuff\TestNew\TestGitHub\TestGitHub\obj\Debug\TestGitHub.pdb
+<<<<<<< HEAD
+=======
 C:\Users\Igor\Desktop\Folder To Copy Stuff\TestNew\TestGitHub\TestGitHub\bin\Debug\TestGitHub.exe
 C:\Users\Igor\Desktop\Folder To Copy Stuff\TestNew\TestGitHub\TestGitHub\bin\Debug\TestGitHub.pdb
 C:\Users\Igor\Desktop\Folder To Copy Stuff\TestNew\TestGitHub\TestGitHub\obj\Debug\TestGitHub.csprojResolveAssemblyReference.cache
+>>>>>>> newbranch
